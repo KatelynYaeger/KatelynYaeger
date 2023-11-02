@@ -1,10 +1,9 @@
-### Hi 👋
+### Hi, I'm Katelyn 👋
 
-#Backend .NET Developer
+#I'm a Backend .NET Developer with a passion for writing fantasy novels. 
 
-#Book fanatic
+#Currently reading Brandon Sanderson's Elantris. 
 
-#Reluctant lover of math
 
 <!--
 **KatelynYaeger/KatelynYaeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
