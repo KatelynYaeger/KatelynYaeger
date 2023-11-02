@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+
+#Backend .NET Developer
+
+#Book fanatic
+
+#Reluctant lover of math
 
 <!--
 **KatelynYaeger/KatelynYaeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
