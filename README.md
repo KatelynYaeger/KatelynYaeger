@@ -1,6 +1,6 @@
 ### Hi, I'm Katelyn 👋
 
-#I'm a Backend .NET Developer with a passion for writing fantasy novels. 
+#I'm a .NET Backend Developer with a passion for writing fantasy novels. 
 
 #Currently reading Brandon Sanderson's Elantris. 
 
